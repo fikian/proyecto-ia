@@ -1,0 +1,29 @@
+.container-btn-form {
+  display: flex;
+  justify-content: space-evenly;
+}
+.container-delivery {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+.container-btn-delivery {
+  display: flex;
+  flex-direction: column;
+}
+.container-text {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+.div-route {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  padding-top: 2rem;
+}
+.div-map-de {
+  display: contents;
+}

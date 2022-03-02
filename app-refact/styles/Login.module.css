@@ -1,0 +1,37 @@
+.container-main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+}
+.container-aside {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  width: 30%; /*ancho*/
+}
+.a {
+  text-align: center;
+  color: #096dd9;
+}
+.container-img {
+  height: 100%;
+  display: flex;
+  padding: 3.5rem;
+  justify-content: center;
+  align-items: center;
+}
+.container-form {
+  display: flex;
+  margin-top: 8rem;
+  align-items: stretch;
+  padding: 2rem;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}
+.container-btn-register {
+  display: flex;
+  justify-content: space-evenly;
+}

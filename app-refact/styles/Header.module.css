@@ -1,0 +1,25 @@
+.header {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 800;
+}
+
+.container-header {
+  display: flex;
+  height: 4rem;
+  padding: 1rem;
+  justify-content: space-between;
+}
+.container-session {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 0.5rem;
+  width: 15%;
+}
+.icon {
+  background-image: url("../public/logo.png");
+  width: 32px;
+  height: 32px;
+}

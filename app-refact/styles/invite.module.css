@@ -1,0 +1,6 @@
+.div-delivery {
+  display: flex;
+  flex-direction: column;
+
+  padding: 10rem;
+}
